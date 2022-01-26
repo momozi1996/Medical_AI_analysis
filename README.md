@@ -13,13 +13,17 @@ Our project provides commonly used AI tools for medical data analysis, mainly co
 
 1）2022-1-26  First update of the project。
 
+
 2）....
 
 
 
-【💁 My journals】
+
+🔥🔥🔥【💁 My journals】🔥🔥🔥
 
 https://scholar.google.com/citations?hl=zh-CN&user=clOu00oAAAAJ
+
+
 
 (1)Wang, L., Ding, W., Mo, Y. et al. Distinguishing nontuberculous mycobacteria from Mycobacterium tuberculosis lung disease from CT images using a deep learning framework. Eur J Nucl Med Mol Imaging 48, 4293–4306 (2021). https://doi.org/10.1007/s00259-021-05432-x
 
@@ -37,7 +41,6 @@ https://scholar.google.com/citations?hl=zh-CN&user=clOu00oAAAAJ
 (4)Han Q, Du L, Mo Y, Huang C, Yuan Q. Machine Learning Based Non-Enhanced CT Radiomics for the Identification of Orbital Cavernous Venous Malformations: An Innovative Tool. J Craniofac Surg. 2022 Jan 12. pii: 00001665-900000000-91903. doi: 10.1097/SCS.0000000000008446. PubMed PMID: 35025826.
 ![image](https://user-images.githubusercontent.com/79295425/151172815-4408f589-6f60-48d1-81a5-621f98d8ad84.png)
 
-💕 Welcome to contact me
 
 (5)基于3D-ResUnet的颅内动脉瘤自动测量模型的检测效能分析
 王贵生莫琰， 中华老年心血管病杂志
@@ -45,4 +48,8 @@ https://scholar.google.com/citations?hl=zh-CN&user=clOu00oAAAAJ
 (6)Simulation of the dose control for vascular targeted photodynamic therapy
 Y Mo, X Hu, J Zhang
 Optics in Health Care and Biomedical Optics VIII 10820, 108202H
+
+
+💕 Welcome to contact me @ bit_moyan@163.com 
+
 
