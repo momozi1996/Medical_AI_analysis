@@ -2,14 +2,15 @@
 
 Our project provides commonly used AI tools for medical data analysis, mainly consisting of three parts: 
 
-(1) Statistical analysis (R)
+---(1) Statistical analysis (R)
 
-(2) Imagomics (Python) 
+---(2) Imagomics (Python) 
 
-(3) Deep learning (Python: Pytorch/Paddle)
+---(3) Deep learning (Python: Pytorch/Paddle)
 
 
-🔥🔥🔥【News】🔥🔥🔥
+
+-----------------------------------------------🔥🔥🔥【News】🔥🔥🔥-----------------------------------------------
 
 1）2022-1-26  First update of the project。
 
@@ -19,7 +20,7 @@ Our project provides commonly used AI tools for medical data analysis, mainly co
 
 
 
-🔥🔥🔥【💁 My journals】🔥🔥🔥
+-----------------------------------------------🔥🔥🔥【💁 My journals】🔥🔥🔥-----------------------------------------------
 
 ❤️❤️ Google scholar ❤️❤️:  https://scholar.google.com/citations?hl=zh-CN&user=clOu00oAAAAJ
 
@@ -45,12 +46,12 @@ Our project provides commonly used AI tools for medical data analysis, mainly co
 ![image](https://user-images.githubusercontent.com/79295425/151172815-4408f589-6f60-48d1-81a5-621f98d8ad84.png)
 
 
-(5)基于3D-ResUnet的颅内动脉瘤自动测量模型的检测效能分析
-王贵生莫琰， 中华老年心血管病杂志
+(5)基于3D-ResUnet的颅内动脉瘤自动测量模型的检测效能分析，王贵生莫琰， 中华老年心血管病杂志，2021
 
-(6)Simulation of the dose control for vascular targeted photodynamic therapy
-Y Mo, X Hu, J Zhang
-Optics in Health Care and Biomedical Optics VIII 10820, 108202H
+(6)Simulation of the dose control for vascular targeted photodynamic therapy.Y Mo, X Hu, J Zhang.Optics in Health Care and Biomedical Optics VIII 10820, 108202H,2018
+
+
+-----------------------------------------------🔥-----------------------------------------------
 
 
 💕 Welcome to contact me @ bit_moyan@163.com 
