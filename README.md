@@ -21,7 +21,10 @@ Our project provides commonly used AI tools for medical data analysis, mainly co
 
 🔥🔥🔥【💁 My journals】🔥🔥🔥
 
-https://scholar.google.com/citations?hl=zh-CN&user=clOu00oAAAAJ
+❤️❤️ Google scholar ❤️❤️:  https://scholar.google.com/citations?hl=zh-CN&user=clOu00oAAAAJ
+
+
+❤️❤️ Researchgate ❤️❤️: https://www.researchgate.net/profile/Yan-Mo-9/research
 
 
 
