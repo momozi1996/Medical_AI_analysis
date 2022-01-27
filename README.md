@@ -13,8 +13,8 @@ PaddleCare can be used for the following medical data: clinical data (Table), im
 
 
 The developed algorithm tool mainly contains three contents:
+
 1. Statistic analysis （R and python)
-2. 
 ![image](https://user-images.githubusercontent.com/79295425/151374521-8b13eb52-131c-40e7-91e5-77f845dd357b.png)
 
 
