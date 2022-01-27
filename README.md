@@ -2,9 +2,9 @@
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-PaddleCare is a usable AI toolkit for medical data analysis.
+**PaddleCare** is a usable **AI** **toolkit** for **medical data analysis**.
 
-PaddleCare can be used for the following medical data: clinical data (Table), imaging data (MRI,CT,Xray), medical signals (EEG), and etc .
+**PaddleCare** can be used for the following medical data: clinical data (Table), imaging data (MRI,CT,Xray), medical signals (EEG), and etc .
 
 
 ![image](https://user-images.githubusercontent.com/79295425/151368837-f32a2d78-b0a9-40b1-ab3d-6e854b3edc94.png)
@@ -121,7 +121,7 @@ To see how the specification has been applied, see the [example-readmes](example
 
 
 ## Author
-Yan Mo
+**Yan Mo**
 
 ❤️ Google scholar ️❤️:  https://scholar.google.com/citations?hl=zh-CN&user=clOu00oAAAAJ
 
