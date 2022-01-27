@@ -8,8 +8,17 @@ PaddleCare can be used for the following medical data: clinical data (Table), im
 
 The developed algorithm tool mainly contains three contents:
 1. Statistic analysis （R and python)
+
+![image](https://user-images.githubusercontent.com/79295425/151364877-46f829e5-e994-4496-8e4a-becb1ded62d2.png)
+
+
 2. Radiomics            (python)
+![image](https://user-images.githubusercontent.com/79295425/151364697-de614bb6-d9d1-4451-93c8-d39f308f552f.png)
+
 3. Deep learning    (python)
+
+![image](https://user-images.githubusercontent.com/79295425/151365007-a11a69de-0ade-4d6a-89a7-456d2da058e1.png)
+
 
 We provide the user with the code available, including:
 1. PaddlePaddle ,  deep learning algorithm (https://www.paddlepaddle.org.cn/)
