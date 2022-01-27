@@ -7,7 +7,7 @@ PaddleCare is a usable AI toolkit for medical data analysis.
 PaddleCare can be used for the following medical data: clinical data (Table), imaging data (MRI,CT,Xray), medical signals (EEG), and etc .
 
 The developed algorithm tool mainly contains three contents:
-1. Statistic analysis （R)
+1. Statistic analysis （R and python)
 2. Radiomics            (python)
 3. Deep learning    (python)
 
