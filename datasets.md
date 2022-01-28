@@ -23,8 +23,8 @@ In this project, open data sets of medical images were organized for users to do
 
 _Note: We have compiled a list of publicly available data sets by data modes and human body parts, as follows：_
 
-- [Multimodal data](#Multimodal data)
-- [Medical image](#Medical image)
+- [Multimodal_data](#Multimodal_data)
+- [Medical_image](#Medical_image)
   - [Brain](#Brain)
   - [Breast](#Breast)
   - [Heart](#Heart)
@@ -40,7 +40,7 @@ _Note: We have compiled a list of publicly available data sets by data modes and
 - [Contributing](#contributing)
 - [License](#license)
 
-## Multimodal data
+## Multimodal_data
   ```markdown
   # Multimodal data, including ：clinical data, images and signals, etc. _
   ```
@@ -176,7 +176,7 @@ https://archive.ics.uci.edu/ml/datasets/mhealth+dataset
 
 
 
-## Medical image
+## Medical_image
 
 **Suggestions:**
 - You are welcome to supplement our data set.
