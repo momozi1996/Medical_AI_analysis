@@ -15,7 +15,8 @@ In this project, open data sets of medical images were organized for users to do
 **Requirements:**
   - For non-commercial purposes, please apply for the data use license from the public data provider.
   - Please refer to the GitHub link, https://github.com/momozi1996/Medical_AI_analysis/tree/main/PaddleCare
-  - "Star"  ![img.png](img.png)
+  - "Star"  ![image](https://user-images.githubusercontent.com/79295425/151544491-07b056cf-b3c2-4912-8332-13872753182a.png)
+
 
 
 ## Table of Contents
@@ -61,25 +62,36 @@ https://aistudio.baidu.com/aistudio/datasetdetail/59815
    - This dataset hails from the Open Access Series of Imaging Studies (OASIS), and aims to provide neuroimaging datasets to the public at no charge to the benefit of the scientific community. It covers 1098 subjects across 2168 MR Sessions and 1608 PET sessions.
    
    - https://www.oasis-brains.org/
-![img_7.png](img_7.png)
+
+![image](https://user-images.githubusercontent.com/79295425/151544591-865cdf5e-d3f4-4086-8412-edd8dfa09c88.png)
+
 
 
  - **OpenNeuro**: 
    - OpenNeuro is a free and open platform that shares images pertaining to MRI, MEG, EEG, iEEG, ECoG, ASL, and PET data. It contains 563 medical datasets that cover 19,187 participants.
    - https://openneuro.org/
-![img_6.png](img_6.png)
+
+
+![image](https://user-images.githubusercontent.com/79295425/151544660-9efd0046-5be7-46dd-be0e-46916a048428.png)
+
+
+
  - **ADNI**: 
    - The Alzheimer’s Disease Neuroimaging Initiative (ADNI) features data collected by researchers around the world that are working to define the progression of Alzheimer’s disease. The data featured includes MRI and PET images, genetics, cognitive tests, CSF and blood biomarkers.
    - http://adni.loni.usc.edu/
 
-   - ![img_8.png](img_8.png)
+![image](https://user-images.githubusercontent.com/79295425/151544684-0f3e8986-c655-4f6e-baa2-e26997a0f03c.png)
+
+
 
 ###  3.MHEALTH Dataset Data Set
 
 Mhealth stands for mobile health. This dataset is unique among medical datasets as it tracks just ten users who wore sensors placed over their chests, right wrists, and left ankles while they performed a variety of physical activities, making it a potent body motion and vital signs dataset.
 
 10名用户在进行各种身体活动时，在胸部、右手腕和左脚踝上佩戴了传感器，记录的身体运动和生命体征数据集。
-![img_1.png](img_1.png)
+
+![image](https://user-images.githubusercontent.com/79295425/151544740-eb994d94-74ff-48fe-83a1-71b1ed284b25.png)
+
 
 https://archive.ics.uci.edu/ml/datasets/mhealth+dataset
 
@@ -94,7 +106,11 @@ https://archive.ics.uci.edu/ml/datasets/mhealth+dataset
  - **GEO Datasets**:
    - GEO medical datasets stores curated gene expression DataSets along with original Series and Platform records around the Gene Expression Omnibus (GEO) repository. 
    - https://www.ncbi.nlm.nih.gov/gds/
-![img_4.png](img_4.png)
+
+![image](https://user-images.githubusercontent.com/79295425/151544773-f4352111-1d37-4432-af6f-85153139deb9.png)
+
+
+
 
  - **1000 Genomes Project**:
    - The international collaboration that makes up the 1000 Genomes Project is considered to be one of the most detailed catalogues of human genetic variation. It intimately details human genetic variation, including SNPs, structural variants, and their haplotype context.
@@ -111,7 +127,8 @@ https://archive.ics.uci.edu/ml/datasets/mhealth+dataset
    - This openly available medical dataset was developed by MIT for the uses of Computational Physiology. The MIMIC dataset comprises unidentified health data relating to over 40,000 critical care patients. 
    - https://mimic.mit.edu/
    - 
-   - ![img_3.png](img_3.png)
+ 
+![image](https://user-images.githubusercontent.com/79295425/151544821-dd590af5-1a00-4d09-9f0a-aa9eab697fa6.png)
 
 
  - **Medicare Hospital Quality**:(🔥)
@@ -122,7 +139,10 @@ https://archive.ics.uci.edu/ml/datasets/mhealth+dataset
 - **CT Medical Images**:
    - This dataset featuring cancer-patient CT scans was designed to enable alternative methods for examining trends in CT image data around contrast, modality, and patient age. 
    - https://www.kaggle.com/kmader/siim-medical-images
-![img_5.png](img_5.png)
+
+![image](https://user-images.githubusercontent.com/79295425/151544879-02a37041-dc73-4e8f-a374-f6d618925d18.png)
+
+
 
 - **Broad Institute Cancer Program Datasets** :
    - This dataset features CT scans of cancer patients. Classifications include tumor types, gene expression patterns, multi-class molecular cancer classification, and more. 
@@ -140,14 +160,22 @@ https://archive.ics.uci.edu/ml/datasets/mhealth+dataset
 - **Lung Cancer Data Set**:
    - This free dataset features information relating to lung cancer going all the way back to 1995.
    - https://archive.ics.uci.edu/ml/datasets/lung+cancer
-![img_2.png](img_2.png)
+
+
+![image](https://user-images.githubusercontent.com/79295425/151544936-c7a0685d-9ea8-43e4-b866-2f3364e76603.png)
+
 
 
 ### Others
 1.https://imerit.net/blog/20-free-life-sciences-healthcare-and-medical-datasets-for-machine-learning-all-pbm/
 2. HealthData.gov: 
    - The official website of the United States Government features tons of datasets that are meant to aid in the tracking and subsequent improvement of the American population. It features datasets ranging from cholesterol tracking all the way to COVID-19 data.
-![img_9.png](img_9.png)
+
+![image](https://user-images.githubusercontent.com/79295425/151544998-6286b224-b791-41d3-a7bf-f119b88610e6.png)
+
+
+
+
 ## Medical image
 
 **Suggestions:**
