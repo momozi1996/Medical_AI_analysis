@@ -40,8 +40,9 @@ Welcome to collect this project:
 - [Usage](#usage)
     - [Generator](#generator)
 - [Dataset](#Dataset)
-- [Example Readmes](#example-readmes)
-- [Related Efforts](#related-efforts)
+- [Statistic_analysis](#Statistic_analysis)
+- [Radiomics](#Radiomics)
+- [Deep_learning](#Deep_learning)
 - [Author](#Author)
 - [Maintainers](#maintainers)
 - [Contributing](#contributing)
@@ -84,6 +85,7 @@ $ standard-readme-spec
 
 To use the generator, look at [generator-standard-readme](https://github.com/RichardLitt/generator-standard-readme). There is a global executable to run the generator in that package, aliased as `standard-readme`.
 
+
 ## Dataset
 
 
@@ -95,6 +97,21 @@ https://github.com/momozi1996/Medical_AI_analysis/blob/main/datasets.md
 
 ![image](https://user-images.githubusercontent.com/79295425/151645095-93c7b69b-f22b-4ac2-9ff9-a8103603e4b8.png)
 
+## Statistic_analysis
+
+To see how the specification has been applied, see the [Statistic_analysis](https://github.com/momozi1996/Medical_AI_analysis/tree/main/PaddleCare/Statistic_analysis).
+
+
+
+## Radiomics
+
+To see how the specification has been applied, see the [Radiomics](https://github.com/momozi1996/Medical_AI_analysis/tree/main/PaddleCare/Radiomics).
+
+
+
+## Deep_learning 
+
+To see how the specification has been applied, see the [Radiomics](https://github.com/momozi1996/Medical_AI_analysis/tree/main/PaddleCare/Deep_learning).
 
 
 ## Example Readmes
