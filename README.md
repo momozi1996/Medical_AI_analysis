@@ -9,8 +9,6 @@
 
 ![image](https://user-images.githubusercontent.com/79295425/151368837-f32a2d78-b0a9-40b1-ab3d-6e854b3edc94.png)
 
-![image](https://user-images.githubusercontent.com/79295425/151369119-aee8a95d-cf19-4bf1-8fdd-c2868b60aabc.png)
-
 
 The developed algorithm tool mainly contains three contents:
 
@@ -30,8 +28,10 @@ We provide the user with the code available, including:
 
 Readme is designed for open source libraries. 
 
-Welcome to collect this project:
-![img_1.png](img_1.png)
+Welcome to collect this project: 
+- ![image](https://user-images.githubusercontent.com/79295425/151645186-87372062-dbe1-4848-97be-4fea995b3333.png)
+
+
 
 ## Table of Contents
 
@@ -49,21 +49,10 @@ Welcome to collect this project:
 
 ## Background
 
-Standard Readme started with the issue originally posed by [@maxogden](https://github.com/maxogden) over at [feross/standard](https://github.com/feross/standard) in [this issue](https://github.com/feross/standard/issues/141), about whether or not a tool to standardize readmes would be useful. A lot of that discussion ended up in [zcei's standard-readme](https://github.com/zcei/standard-readme/issues/1) repository. While working on maintaining the [IPFS](https://github.com/ipfs) repositories, I needed a way to standardize Readmes across that organization. This specification started as a result of that.
+PaddleCare,as a Medical_AI_analysis toolkit is originally posed by [@yanmo](https://github.com/maxogdenhttps://github.com/momozi1996) in [this issue](https://github.com/maxogdenhttps://github.com/momozi1996/Medical_AI_analysis), about whether or not a tool to standardize readmes would be useful.
 
-> Your documentation is complete when someone can use your module without ever
-having to look at its code. This is very important. This makes it possible for
-you to separate your module's documented interface from its internal
-implementation (guts). This is good because it means that you are free to
-change the module's internals as long as the interface remains the same.
+> Your documentation is complete whe
 
-> Remember: the documentation, not the code, defines what a module does.
-
-~ [Ken Williams, Perl Hackers](http://mathforum.org/ken/perl_modules.html#document)
-
-Writing READMEs is way too hard, and keeping them maintained is difficult. By offloading this process - making writing easier, making editing easier, making it clear whether or not an edit is up to spec or not - you can spend less time worrying about whether or not your initial documentation is good, and spend more time writing and using code.
-
-By having a standard, users can spend less time searching for the information they want. They can also build tools to gather search terms from descriptions, to automatically run example code, to check licensing, and so on.
 
 
 The goals for this repository are:
