@@ -15,15 +15,12 @@
 The developed algorithm tool mainly contains three contents:
 
 1. Statistic analysis （R and python)
-![image](https://user-images.githubusercontent.com/79295425/151374521-8b13eb52-131c-40e7-91e5-77f845dd357b.png)
 
 
 2. Radiomics            (python)
-![image](https://user-images.githubusercontent.com/79295425/151364697-de614bb6-d9d1-4451-93c8-d39f308f552f.png)
 
 3. Deep learning    (python)
 
-![image](https://user-images.githubusercontent.com/79295425/151365007-a11a69de-0ade-4d6a-89a7-456d2da058e1.png)
 
 
 We provide the user with the code available, including:
