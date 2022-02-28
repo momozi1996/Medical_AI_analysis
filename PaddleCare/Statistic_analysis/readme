@@ -1,1 +1,36 @@
-This file contains R language codes for statistical analysis of medical data.
+This file contains R  codes for statistical analysis of medical data.
+众所周知，医学数据统计分析无论在科学研究还是疾病发现方面具有极其重要的意义。
+
+本文档整理了最常用的统计方法的代码（如果有缺漏，欢迎给我们提需求）
+
+目录： 
+1. 统计检验（R）
+2. 回归（R）
+3. 生存分析（R）
+4. 作图（R）
+
+
+1. 统计检验
+常规的医学数据分析的步骤是：
+第一步，对变量进行正态性检验，判定变量是否独立正态分布，再选择合适的统计方法。
+第二步，分别针对数值变量和分类变量，正态分布和非正态分布的性质，选择统计方法：
+  组间显著性检验：
+  
+自此，我们可以完成医学数据分析中的常规表格：
+
+2.回归：
+LR
+LASSO
+
+3.生存分析：
+KM
+COX
+
+4. 作图：
+
+1）箱型图
+2）小提琴图
+3) 随机森林图
+4) nomogram 
+5) DAC
+6)相关热图
