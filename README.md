@@ -52,8 +52,6 @@ Welcome to collect this project:
 
 PaddleCare,as a Medical_AI_analysis toolkit is originally posed by [@yanmo](https://github.com/maxogdenhttps://github.com/momozi1996) in [this issue](https://github.com/maxogdenhttps://github.com/momozi1996/Medical_AI_analysis), about whether or not a tool to standardize readmes would be useful.
 
-> Your documentation is complete whe
-
 
 
 The goals for this repository are:
@@ -64,26 +62,6 @@ The goals for this repository are:
 4. Assist in scientific research of "AI+ Medicine"
 5. Open source code for all users
 
-## Install
-
-This project uses [node](http://nodejs.org) and [npm](https://npmjs.com). Go check them out if you don't have them locally installed.
-
-```sh
-$ npm install --global standard-readme-spec
-```
-
-## Usage
-
-This is only a documentation package. You can print out [spec.md](spec.md) to your console:
-
-```sh
-$ standard-readme-spec
-# Prints out the standard-readme spec
-```
-
-### Generator
-
-To use the generator, look at [generator-standard-readme](https://github.com/RichardLitt/generator-standard-readme). There is a global executable to run the generator in that package, aliased as `standard-readme`.
 
 
 ## Dataset
@@ -112,16 +90,6 @@ To see how the specification has been applied, see the [Radiomics](https://githu
 ## Deep_learning 
 
 To see how the specification has been applied, see the [Radiomics](https://github.com/momozi1996/Medical_AI_analysis/tree/main/PaddleCare/Deep_learning).
-
-
-## Example Readmes
-
-To see how the specification has been applied, see the [example-readmes](example-readmes/).
-
-## Related Efforts
-
-- [Art of Readme](https://github.com/noffle/art-of-readme) - 💌 Learn the art of writing quality READMEs.
-- [open-source-template](https://github.com/davidbgk/open-source-template/) - A README template to encourage open-source contributions.
 
 
 ## Author
